@@ -1,0 +1,13 @@
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\bin\Debug\CRUD_Demo.exe.config
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\bin\Debug\CRUD_Demo.exe
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\bin\Debug\CRUD_Demo.pdb
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.csproj.AssemblyReference.cache
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.Form1.resources
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.Properties.Resources.resources
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.csproj.GenerateResource.cache
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.csproj.CoreCompileInputs.cache
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.exe
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.pdb
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\bin\Debug\System.Data.SqlClient.dll
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\bin\Debug\System.Data.SqlClient.xml
+E:\MyProjects\BackendDevelopment\crud\CRUD_Demo\CRUD_Demo\CRUD_Demo\obj\Debug\CRUD_Demo.csproj.CopyComplete
